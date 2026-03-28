@@ -44,4 +44,4 @@ It explores how:
 
 ## Demo  
 A gameplay video showcasing the simulation can be found here: 
-[Gameplay Video - Driving Education Simulation]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1bwbgPf5lwrqGNg87QWrwgk0OGQfSXSth/view?usp=sharing))
+[Gameplay Video - Driving Education Simulation](https://drive.google.com/file/d/1bwbgPf5lwrqGNg87QWrwgk0OGQfSXSth/view?usp=sharing)
