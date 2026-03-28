@@ -32,6 +32,5 @@ Each script corresponds to a particular section or scene in Level 1 and manages 
 
 ---
 
-## 🔹 Summary
 - These scripts collectively create a **seamless, interactive learning experience** in Level 1.  
 - They ensure that players receive proper guidance, feedback, and decision-based gameplay while progressing through the lesson from start to finish.
