@@ -7,9 +7,9 @@ This folder contains all the **Unity scene files** used in the **Driving Educati
 ## Level1Part1Unity
 - This is the **main Level 1 gameplay scene** used in Unity.  
 - The scene covers the **entire Level 1 experience**, including:  
-  - Player entering and controlling the car  
-  - Interactive mini-games, such as the vehicle inspection  
-  - Driving through roads with traffic and hazards  
+  - Player entering and getting tested on interior car related questions
+  - Interactive mini-games, such as the vehicle inspection
+  - Driving through roads with common and rare situations
   - Completing the lesson with the parking activity  
 - All interactions, UI, and level mechanics for Level 1 are handled in this scene.
 
