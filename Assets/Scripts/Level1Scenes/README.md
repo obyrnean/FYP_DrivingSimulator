@@ -11,7 +11,7 @@ Each script corresponds to a particular section or scene in Level 1 and manages 
 - Scripts are numbered according to the sequence of scenes (e.g., Scene2, Scene3 … Scene42).  
 - Most scripts share **similar coding patterns**, handling:  
   - Instructor messages and feedback  
-  - User interaction buttons (multiple choice, drag & drop, click in order, right/wrong)  
+  - User interaction buttons (multiple choice, clik on sign, click in order, right/wrong)  
   - Decision points with branching outcomes  
   - Repetition options for incorrect or repeatable tasks  
 
